@@ -1,6 +1,6 @@
-# Simple-Flower-Classification
+# Simple Flower Classification
 
-A simple classification on the popular Iris dataset using tensorflow. This project mainly serves as a blueprint for future, more complicated models in Tensorflow. 
+This project mainly serves as a blueprint for future, more complicated models in Tensorflow. 
 
 The FlowerClassification.ipynb jupyter notebook file can be used to see the effects that most of the operations have onto the data directly.
 
